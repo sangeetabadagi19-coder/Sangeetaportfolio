@@ -1,0 +1,10 @@
+# Activity 2 – C/C++ Development Environment Setup
+
+1. Installed Visual Studio Code on Windows.
+2. Installed the Microsoft C/C++ extension in VS Code.
+3. Installed MSYS2 for the C/C++ development environment.
+4. Installed MinGW-w64 GCC using the UCRT64 environment.
+5. Added `C:\msys64\ucrt64\bin` to the Windows PATH environment variable.
+6. Verified GCC installation using the `gcc --version` command.
+7. Installed the GDB debugger for debugging C programs.
+8. Created and compiled a C program named `hello.c` and tested its execution.
